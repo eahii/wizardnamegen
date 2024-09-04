@@ -1,0 +1,58 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+body {
+  font-family: 'Garamond', serif;
+}
+
+.wizard-name {
+  font-size: 1.5em;
+  color: #4a4a4a;
+  font-weight: bold;
+}
+
+/* Tämä on yleinen tyyli keskittämään sisältö */
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* Keskittää pystysuunnassa */
+  align-items: center;
+  /* Keskittää vaaka-suunnassa */
+  min-height: 80vh;
+  /* Käytetään 80% viewportin korkeudesta, jotta header ja footer jäävät näkyviin */
+  text-align: center;
+  /* Keskittää tekstin */
+}
+
+/* Lisää tyylejä lomakkeelle ja tulosten esittämiseen */
+.form-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wizard Name Generator.props" />
+</Project>

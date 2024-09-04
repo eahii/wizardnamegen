@@ -1,0 +1,34 @@
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\appsettings.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\wizardnames.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\Wizard Name Generator.staticwebassets.runtime.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\Wizard Name Generator.exe
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\Wizard Name Generator.deps.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\Wizard Name Generator.runtimeconfig.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\Wizard Name Generator.dll
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\Wizard Name Generator.pdb
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.csproj.AssemblyReference.cache
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.AssemblyInfoInputs.cache
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.AssemblyInfo.cs
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.csproj.CoreCompileInputs.cache
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.RazorAssemblyInfo.cache
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.RazorAssemblyInfo.cs
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\staticwebassets\msbuild.Wizard Name Generator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\staticwebassets\msbuild.build.Wizard Name Generator.props
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wizard Name Generator.props
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wizard Name Generator.props
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\scopedcss\bundle\Wizard Name Generator.styles.css
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\scopedcss\projectbundle\Wizard Name Generator.bundle.scp.css
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard N.3C608F11.Up2Date
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.dll
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\refint\Wizard Name Generator.dll
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.pdb
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\Wizard Name Generator.genruntimeconfig.cache
+C:\Users\juuso\projects\Wizard Name Generator\Wizard Name Generator\obj\Debug\net8.0\ref\Wizard Name Generator.dll
